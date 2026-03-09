@@ -4,10 +4,15 @@ import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
   plugins: [vue()],
-  base: '/elyxira/',
+  //base: '/elyxira/',
+  base: process.env.NODE_ENV === 'production' ? '/elyxira/' : '/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url)),
     },
   },
+  build: {
+    // 建议：确保 assetsDir 保持默认或显式设置
+    assetsDir: 'assets',
+  }
 })
