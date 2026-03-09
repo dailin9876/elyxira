@@ -37,8 +37,8 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: dist # 修改这里，指定部署 dist 目录
-          token: ${{ secrets.GH_PAGES_TOKEN }}
-          repository-name: elyxira/elyxira.github.io
+          token: ${{ secrets.GITHUB_TOKEN }}
+          #repository-name: elyxira/elyxira.github.io
           branch: main # 部署到目标仓库的 main 分支
           clean: true # 清理目标分支上的旧文件
           # 移除不必要的 git-config-* 和 force 选项
