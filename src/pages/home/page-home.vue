@@ -253,7 +253,7 @@ const navItems = ref([
 
 const showcaseImages = ref([
   {
-    src: '/images/screenshot1.png', // 更新路径
+    src: './images/screenshot1.png', // 更新路径
     alt: 'Elyxira 医学题库截图'
   },
   {
