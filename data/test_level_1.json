@@ -16,7 +16,7 @@
           ],
           "answer": "D",
           "userAnswer": null,
-          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">✨ N1 語彙「克服（こくふく）」精講 ✨</span>\n\n**【意味】**  \n克服、战胜 (努力克服困难、疾病、弱点等并战胜它们)。\n\n---\n\n### 🔍 選択肢のデバッグ (Debug Choices)\n| 読み | 漢字 / 意味 | 判定 |\n| :--- | :--- | :--- |\n| **こうふく** | 幸福 (幸福) / **降伏（こうふく）** (投降) | ❌ |\n| **かいふく** | **回復（かいふく）** (恢复) | ⚠️ 意味は近いが、読みではない |\n| **こくふく** | **克服（こくふく）** | ✅ **正解** |\n\n---\n\n### 💡 先生のアドバイス\n「**回復**」と「**克服**」の使い分けに注意しましょう！\n*   **回復**：マイナスの状態から**零（ぜろ）**に戻ること。(恢复到原始状态)\n*   **克服**：大きな壁を自らの力で**乗り越（のりこ）える**こと。(凭借自身力量跨越障碍)\n\n--- \n<span style=\"color:var(--t-accent)\">💡 覚え方：</span>「克」は「打ち勝つ（战胜）」、「服」は「従（したが）わせる（征服）」という意味が含まれています。",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">✨ N1 語彙「克服（こくふく）」精講 ✨</span>\n\n**【意味】**：克服、战胜 (努力克服困难、疾病、弱点等并战胜它们)。\n\n---\n### 🔍 選択肢のデバッグ\n- **D. こくふく**：克服 ✅ **正解**\n- **A. こうふく**：降伏 (投降) / 幸福 (幸福)\n- **C. かいふく**：回復 (恢复)。意味は近いが読みが違う。\n\n---\n<span style=\"color:var(--t-accent)\">💡 先生のコツ：</span>「克」は「打ち勝つ（战胜）」、「服」は「従（したが）わせる（征服）」という意味です。",
           "previousAnswer": "D"
         },
         {
@@ -32,14 +32,30 @@
           ],
           "answer": "B",
           "userAnswer": null,
-          "notes": "<span style=\"color:var(--c-blue);background-color:var(--bg-blue)\">🌅 語彙精講：「映（は）える」 🌅</span>\n\n**【意味】**  \n映照、照耀 (受光线照射而发光，或因与他物对照而显现得格外鲜明)。\n\n---\n\n### 🔍 語彙パース (Vocabulary Parsing)\n- **B. はえる（映える）**：光が反射して美しく光る。 ✅ **正解**\n  - 例文：「青い海に白いヨットが映える。」(白色的游艇在蓝色的海洋中格外显眼。)\n- **A. そびえる（聳える）**：山などが高く立っている様子。(耸立)\n  - 接続：名詞 (山、ビル) + がそびえる。\n- **C. もえる（燃える）**：火がつく。情熱を燃やす。(燃烧)\n  - 例文：「希望に燃える。」(充满希望。)\n- **D. さえる（冴える）**：頭がはっきりする、色が鮮明である。(清亮、清晰)\n  - 例文：「月が冴える。」(月色清冽。)\n\n---\n<span style=\"color:var(--t-accent)\">💡 先生のコツ：</span>SNSの「映（ば）え」と同じ漢字です。「夕日」「対照（コントラスト）」とセットで覚えましょう！",
+          "notes": "<span style=\"color:var(--c-blue);background-color:var(--bg-blue)\">🌅 語彙精講：「映（は）える」 🌅</span>\n\n**【意味】**：映照、照耀 (因光照而显得美丽，或由于对照鮮明)。\n\n---\n### 🔍 語彙パース\n- **B. はえる**：映える。 ✅ **正解**\n- **A. そびえる**：聳える (耸立)。高い山や建物に使う。\n- **D. さえる**：冴える (清澈、灵敏)。「目が冴える」「月が冴える」など。\n\n---\n<span style=\"color:var(--t-accent)\">💡 先生のコツ：</span>SNSの「映え（ばえ）」と同じです。コントラストや光が重要なキーワードです。",
           "previousAnswer": null
         },
         {
           "id": 3,
           "number": 3,
           "imageTitle": "問題②：最も良いものを選びなさい",
-          "question": "彼はロケットを作って宇宙へ飛ばしたいという（　）夢を実現した。",
+          "question": "ガスが漏れると、（　）が感知して警報が鳴る。",
+          "options": [
+            "A、レーダー",
+            "B、モーター",
+            "C、センサー",
+            "D、レバー"
+          ],
+          "answer": "C",
+          "userAnswer": null,
+          "notes": "<span style=\"color:var(--c-yellow);background-color:var(--bg-yellow)\">🚨 カタカナ語：感知装置 🚨</span>\n\n**【正解】センサー**：传感器 (Sensor)。\n\n---\n### 🔍 オプション・デバッグ\n- **C. センサー**：物理量を検知する。 ✅\n- **A. レーダー**：电波测量。 (Radar)\n- **B. モーター**：发动机。 (Motor)\n- **D. レバー**：杠杆、手柄。 (Lever)",
+          "previousAnswer": null
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "imageTitle": "問題②：最も良いものを選びなさい",
+          "question": "ロケットを作って宇宙へ飛ばしたいという（　）夢を実現した。",
           "options": [
             "A、絶大な",
             "B、盛大な",
@@ -48,12 +64,44 @@
           ],
           "answer": "D",
           "userAnswer": null,
-          "notes": "<span style=\"color:var(--c-red);background-color:var(--bg-red)\">🚀 類義語の使い分け：大きな夢 🚀</span>\n\n**【正解】壮大（そうだい）な**：雄伟、宏大 (规模宏大且气派，多用于计划、梦想)。\n\n---\n\n### 🔍 「大」シリーズのデバッグ\n- **D. 壮大な**：梦、构想、计划等，规模宏大的。 ✅\n  - 例文：「壮大なスケールの映画。」(规模宏大的电影。)\n- **A. 絶大（ぜつだい）な**：极大的 (多用于信任、人气等抽象的、程度极高的情况)。\n  - 例文：「絶大な信頼を寄せる。」(寄予极大的信任。)\n- **B. 盛大（せいだい）な**：盛大的 (多用于集会、拍手等热闹且规模大的情况)。\n  - 例文：「盛大な拍手。」(热烈的掌声。)\n- **C. 雄大（ゆうだい）な**：雄伟的 (多用于自然景色等堂堂正正、规模庞大的情况)。\n  - 例文：「雄大なアルプス山脈。」(雄伟的阿尔卑斯山脉。)\n\n---\n<span style=\"color:var(--t-accent)\">💡 先生のコツ：</span>「夢」や「計画」の形容には「壮大」をセットで使うのがN1の鉄則です！",
+          "notes": "<span style=\"color:var(--c-red);background-color:var(--bg-red)\">🚀 類義語：大きな夢 🚀</span>\n\n**【正解】壮大（そうだい）な**：雄伟、宏大 (规模宏大，常用于计画、梦想)。\n\n---\n### 🔍 「大」シリーズの使い分け\n- **D. 壮大な**：梦、计画。 ✅\n- **A. 絶大な**：信頼、人気。 (极大的)\n- **B. 盛大な**：拍手、式典。 (盛大的)\n- **C. 雄大な**：景色、自然。 (雄伟的)",
           "previousAnswer": "D"
         },
         {
-          "id": 4,
-          "number": 4,
+          "id": 5,
+          "number": 5,
+          "imageTitle": "問題②：最も良いものを選びなさい",
+          "question": "その優しいメロディーは私の耳に（　）響き、眠りに誘ってくれた。",
+          "options": [
+            "A、ここちよく",
+            "B、喜ばしく",
+            "C、いさぎよく",
+            "D、輝かしく"
+          ],
+          "answer": "A",
+          "userAnswer": null,
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">🎶 感覚の語彙：心地よい 🎶</span>\n\n**【正解】ここちよく**：舒畅、愉快 (Comfortable)。\n\n---\n### 🔍 語彙パース\n- **A. 心地よい**：音、風、椅子などが「気分が良い」。 ✅\n- **B. 喜ばしい**：嬉しい出来事。 (可喜的)\n- **C. いさぎよい**：潔い。悔いがない、男らしい。 (干脆、果断)\n- **D. 輝かしい**：栄光のある。 (辉煌的)",
+          "previousAnswer": null
+        },
+        {
+          "id": 6,
+          "number": 6,
+          "imageTitle": "問題②：最も良いものを選びなさい",
+          "question": "葉書が届いたが、雨でインクが少し（　）、読みにくかった。",
+          "options": [
+            "A、暴れて",
+            "B、にじんで",
+            "C、震えて",
+            "D、ゆがんで"
+          ],
+          "answer": "B",
+          "userAnswer": null,
+          "notes": "<span style=\"color:var(--c-blue);background-color:var(--bg-blue)\">📝 液体の広がり：滲む 📝</span>\n\n**【正解】にじんで**：渗、化开 (Blotted/Blurred)。\n\n---\n### 🔍 状態のデバッグ\n- **B. にじむ**：液体が広がり境界が曖昧になる。 ✅\n- **A. あばれる**：暴れる。 (乱闹)\n- **C. ふるえる**：震える。 (发抖)\n- **D. ゆがむ**：歪む。形が正しくなくなる。 (歪斜)",
+          "previousAnswer": null
+        },
+        {
+          "id": 7,
+          "number": 7,
           "imageTitle": "問題②：最も良いものを選びなさい",
           "question": "将来に過度の期待をするのは（　）だ。",
           "options": [
@@ -64,12 +112,60 @@
           ],
           "answer": "C",
           "userAnswer": null,
-          "notes": "<span style=\"color:var(--c-yellow);background-color:var(--bg-yellow)\">🚫 語彙精講：「禁物（きんもつ）」 🚫</span>\n\n**【意味】**  \n禁忌、忌讳 (绝对不可做的事，应当避免的事)。\n\n---\n\n### 🔍 選択肢の検証\n- **C. 禁物**：避けるべきこと。 ✅ **正解**\n  - 例文：「病人に無理は禁物だ。」(对病人来说，勉强是禁忌。)\n- **A. 不当（ふとう）**：不当、非法 (不公正、不合理的事)。\n  - 例文：「不当な扱いに抗議する。」(抗议不当待遇。)\n- **B. 無効（むこう）**：无效 (失去法律或契约效力)。\n  - 例文：「このチケットは無効です。」(这张票已无效。)\n- **D. 偏見（へんけん）**：偏见 (不客观的看法)。\n  - 例文：「人種に対する偏見を持つ。」(对人种持有偏见。)\n\n---\n<span style=\"color:var(--t-accent)\">💡 先生のコツ：</span>「〜は禁物だ」という定型句でよく使われます。「油断（ゆだん）は禁物だ」もセットで覚えましょう！",
+          "notes": "<span style=\"color:var(--c-yellow);background-color:var(--bg-yellow)\">🚫 語彙：禁物（きんもつ） 🚫</span>\n\n**【正解】禁物**：忌讳、严禁 (Forbidden/Taboo)。\n\n---\n### 🔍 選択肢の検証\n- **C. 禁物**：避けるべきこと。 ✅\n- **A. 不当**：不公正、非法。 (不当)\n- **B. 無効**：効力がない。 (无效)\n- **D. 偏見**：偏った見方。 (偏见)",
           "previousAnswer": "C"
         },
         {
-          "id": 5,
-          "number": 5,
+          "id": 8,
+          "number": 8,
+          "imageTitle": "問題②：最も良いものを選びなさい",
+          "question": "トップに立つ者の責任の重さを（　）感じている。",
+          "options": [
+            "A、はらはらと",
+            "B、びくびくと",
+            "C、どきどきと",
+            "D、ひしひしと"
+          ],
+          "answer": "D",
+          "userAnswer": null,
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">💓 オノマトペ：痛切な実感 💓</span>\n\n**【正解】ひしひしと**：深刻地、切身地 (Acutely/Pointedly)。\n\n---\n- **D. ひしひしと**：責任、老いなどを強く実感する。 ✅\n- **A. はらはら**：心配。 (捏一把汗)\n- **B. びくびく**：恐怖。 (战战兢兢)\n- **C. どきどき**：緊張。 (心跳不止)",
+          "previousAnswer": "D"
+        },
+        {
+          "id": 9,
+          "number": 9,
+          "imageTitle": "問題③：意味が近いものを選びなさい",
+          "question": "A社の<u>コンパクトな</u>車がよく売れている。",
+          "options": [
+            "A、新型の",
+            "B、小型の",
+            "C、家族向きの",
+            "D、若者向きの"
+          ],
+          "answer": "B",
+          "userAnswer": null,
+          "notes": "<span style=\"color:var(--c-blue);background-color:var(--bg-blue)\">🚗 言い換え：外来語 🚗</span>\n\n**【正解】小型の（こがたの）**：小型 (Compact)。\n\n---\n- **B. 小型の**：サイズが小さい。 ✅\n- **A. 新型の**：新しいモデル。 (新型)",
+          "previousAnswer": null
+        },
+        {
+          "id": 10,
+          "number": 10,
+          "imageTitle": "問題③：意味が近いものを選びなさい",
+          "question": "彼は「あ、忘れてた」と<u>つぶやく</u>と、その場を去った。",
+          "options": [
+            "A、ゆっくり言う",
+            "B、大きな声で言う",
+            "C、早口で言う",
+            "D、小さな声で言う"
+          ],
+          "answer": "D",
+          "userAnswer": null,
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">🗣️ 言い換え：発話の様子 🗣️</span>\n\n**【正解】小さな声で言う**：嘟囔、自言自语 (Mutter)。\n\n---\n- **D. 小さな声で言う**：独り言を言う。 ✅",
+          "previousAnswer": null
+        },
+        {
+          "id": 11,
+          "number": 11,
           "imageTitle": "問題③：意味が近いものを選びなさい",
           "question": "目撃者の証言には<u>不審な</u>点があった。",
           "options": [
@@ -80,30 +176,142 @@
           ],
           "answer": "C",
           "userAnswer": null,
-          "notes": "<span style=\"color:var(--c-blue);background-color:var(--bg-blue)\">🔍 言い換え：不審（ふしん）な 🔍</span>\n\n**【正解】怪しい（あやしい）**：可疑、异常、不寻常。\n\n---\n\n### 🔍 ニュアンスの差分（Diff）\n- **C. 怪しい**：不審。 ✅\n  - 例文：「この話には怪しい点が多い。」(这个说法中有很多可疑点。)\n- **A. でたらめな**：胡说八道 (毫无根据、随便说出的话)。\n  - 例文：「でたらめなニュース。」(虚假的新闻。)\n- **B. 頼（たよ）りない**：不可靠 (没信心、不踏实)。\n  - 例文：「新入社員に任せるのは頼りない。」(交给新职员实在让人不放心。)\n- **D. あいまいな**：含糊 (不明确、模棱两可)。\n  - 例文：「あいまいな答え。」(含糊的回答。)\n\n---\n<span style=\"color:var(--t-accent)\">💡 先生のコツ：</span>「不審者（ふしんしゃ）」＝「不審な人」＝「怪しい人」と繋げて覚えましょう！",
+          "notes": "<span style=\"color:var(--c-blue);background-color:var(--bg-blue)\">🔍 言い換え：不審（ふしん）な 🔍</span>\n\n**【正解】怪しい（あやしい）**：可疑、可疑的 (Suspicious)。\n\n---\n- **C. 怪しい**：不審と同義。 ✅\n- **A. でたらめな**：胡说、荒唐。 (Nonsense)",
           "previousAnswer": "C"
         },
         {
-          "id": 6,
-          "number": 6,
-          "imageTitle": "問題②：最も良いものを選びなさい",
-          "question": "兄が会社の採用面接試験から帰ってきた。表情が明るいところを見ると、（　）うまくいったようだ。",
+          "id": 12,
+          "number": 12,
+          "imageTitle": "問題③：意味が近いものを選びなさい",
+          "question": "何時間もグラウンドで練習していたので、<u>ばてて</u>しまった。",
           "options": [
-            "A、仮に",
-            "B、まさか",
-            "C、必ずしも",
-            "D、どうやら"
+            "A、疲れて",
+            "B、飽きて",
+            "C、のどが渇いて",
+            "D、おなかがすいて"
           ],
-          "answer": "D",
+          "answer": "A",
           "userAnswer": null,
-          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">🧩 副詞の呼応：推量の「どうやら」 🧩</span>\n\n### ✅ 正解：D. どうやら\n*   **意味**：看来、显然 (Apparently/It seems that)\n*   **用法**：根拠に基づいた推量を表す「〜ようだ/らしい」とセットで使われます。\n*   **例文**：どうやら明日は雨のようだ。(看来明天要下雨。)\n\n### ❌ 不正解のデバッグ\n*   **A. 仮（かり）に** (假设)：もしも。後に「〜としても/たとえ〜」が続くことが基本。例：仮に失敗したとしても悔いはない。\n*   **B. まさか** (难道、绝不)：ありえないと思う気持ち。後に「〜ないだろう」が続く。例：まさか彼が犯人だとは。(难道他竟然是凶手。)\n*   **C. 必ずしも** (不一定)：部分否定。後に「〜とは限らない/〜というわけではない」が続く。例：金持ちが必ずしも幸せとは限らない。(有钱人不一定就幸福。)",
+          "notes": "<span style=\"color:var(--c-red);background-color:var(--bg-red)\">🏃 言い換え：疲労 🏃</span>\n\n**【正解】疲れて**：累坏了、筋疲力尽 (Exhausted)。\n\n---\n- **A. 疲れて**：体力が切れる。 ✅\n- **B. 飽きて**：厌烦。 (Tired of/Bored)",
           "previousAnswer": null
         },
         {
-          "id": 7,
-          "number": 7,
+          "id": 13,
+          "number": 13,
+          "imageTitle": "問題③：意味が近いものを選びなさい",
+          "question": "どんな厳しい状況でも任務を<u>まっとうする</u>覚悟がある。",
+          "options": [
+            "A、継続する",
+            "B、完了する",
+            "C、実行する",
+            "D、担当する"
+          ],
+          "answer": "B",
+          "userAnswer": null,
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">💪 言い換え：完遂 💪</span>\n\n**【正解】完了する**：完成、圆满完成 (To fulfill/complete)。\n\n---\n- **B. 完了する**：最後までやり遂げる。 ✅\n- **A. 継続する**：続ける。 (Continue)",
+          "previousAnswer": null
+        },
+        {
+          "id": 14,
+          "number": 14,
+          "imageTitle": "問題④：正しい使い方の分を選びなさい",
+          "question": "「簡素（かんそ）」の使い方が正しいものはどれか。",
+          "options": [
+            "A、これはボールをけるだけの簡素なゲームです。",
+            "B、鈴木さんは頑固だったけど、今は簡素になったね。",
+            "C、田舎で食べた簡素な味の食事が忘れられない。",
+            "D、以前に比べ、役所の手続きは簡素になりました。"
+          ],
+          "answer": "D",
+          "userAnswer": null,
+          "notes": "<span style=\"color:var(--c-yellow);background-color:var(--bg-yellow)\">📋 語彙：簡素（かんそ） 📋</span>\n\n**【正解】D**：简朴、简化 (Simple/Plain)。\n\n---\n- **D. 手続きの簡素化**：無駄を省く。 ✅\n- **A.** 単純なゲーム。 (Simple game)\n- **C.** 素朴な味。 (Simple/Rustic taste)",
+          "previousAnswer": "D"
+        },
+        {
+          "id": 15,
+          "number": 15,
+          "imageTitle": "問題②：最も良いものを選びなさい",
+          "question": "未だに事件の真相は（　）されていない。",
+          "options": [
+            "A、実証",
+            "B、釈放",
+            "C、解明",
+            "D、披露"
+          ],
+          "answer": "C",
+          "userAnswer": null,
+          "notes": "<span style=\"color:var(--c-blue);background-color:var(--bg-blue)\">🔍 語彙：真相の究明 🔍</span>\n\n**【正解】解明（かいめい）**：查明、弄清楚 (Clarification)。\n\n---\n- **C. 解明**：わからないことを明らかにする。 ✅\n- **A. 実証**：事実に照らして証明する。 (Demonstration)\n- **B. 釈放**：拘束を解く。 (Release)\n- **D. 披露**：広く発表する。 (Announcement)",
+          "previousAnswer": null
+        },
+        {
+          "id": 16,
+          "number": 16,
+          "imageTitle": "問題②：最も良いものを選びなさい",
+          "question": "子供たちが仲良く遊んでいる姿は（　）ものだ。",
+          "options": [
+            "A、ほほえましい",
+            "B、たくましい",
+            "C、めざましい",
+            "D、好ましい"
+          ],
+          "answer": "A",
+          "userAnswer": null,
+          "notes": "<span style=\"color:var(--c-red);background-color:var(--bg-red)\">😊 語彙：微笑ましい 😊</span>\n\n**【正解】ほほえましい**：令人欣慰、令人微笑 (Heartwarming)。\n\n---\n- **A. ほほえましい**：思わず顔がほころぶ様子。 ✅\n- **B. たくましい**：逞しい。体が強い、頼もしい。 (Strong)\n- **C. めざましい**：目覚ましい。驚くほど素晴らしい。 (Remarkable)\n- **D. 好ましい**：好感が持てる。 (Desirable)",
+          "previousAnswer": null
+        },
+        {
+          "id": 17,
+          "number": 17,
+          "imageTitle": "問題②：最も良いものを選びなさい",
+          "question": "どのくらいの時間がかかるか、大体の（　）を教えてください。",
+          "options": [
+            "A、目安",
+            "B、目途",
+            "C、目印",
+            "D、目方"
+          ],
+          "answer": "A",
+          "userAnswer": null,
+          "notes": "<span style=\"color:var(--c-yellow);background-color:var(--bg-yellow)\">📏 語彙：基準と目標 📏</span>\n\n**【正解】目安（めやす）**：标准、大致目标 (Standard/Guideline)。\n\n---\n- **A. 目安**：だいたいの基準。 ✅\n- **B. 目途（めど）**：目標、見通し。 (Prospect/Goal)\n- **C. 目印（めじるし）**：しるし。 (Mark)\n- **D. 目方（めかた）**：重さ。 (Weight)",
+          "previousAnswer": null
+        },
+        {
+          "id": 18,
+          "number": 18,
+          "imageTitle": "問題②：最も良いものを選びなさい",
+          "question": "数年の間に町の（　）はすっかり変わってしまった。",
+          "options": [
+            "A、景色",
+            "B、様相",
+            "C、形容",
+            "D、概観"
+          ],
+          "answer": "B",
+          "userAnswer": null,
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">🏘️ 語彙：様相（ようそう） 🏘️</span>\n\n**【正解】様相**：面貌、样子 (Aspect/Facet)。\n\n---\n- **B. 様相**：状況や姿。 ✅\n- **A. 景色**：目に見える風景。 (Scenery)\n- **C. 形容**：姿を言葉で表すこと。 (Description)\n- **D. 概観**：全体をざっと見ること。 (Overview)",
+          "previousAnswer": null
+        },
+        {
+          "id": 19,
+          "number": 19,
+          "imageTitle": "問題②：最も良いものを選びなさい",
+          "question": "冗談を（　）ながら、楽しく打ち合わせをした。",
+          "options": [
+            "A、唱え",
+            "B、蓄え",
+            "C、踏まえ",
+            "D、交え"
+          ],
+          "answer": "D",
+          "userAnswer": null,
+          "notes": "<span style=\"color:var(--c-blue);background-color:var(--bg-blue)\">💬 語彙：交える（まじえる） 💬</span>\n\n**【正解】交え**：夹杂、混合 (To mix/interweave)。\n\n---\n- **D. 交える**：冗談を混ぜる。 ✅\n- **A. 唱え**：唱える。 (Chant/Advocate)\n- **B. 蓄え**：蓄える。 (Save/Store)\n- **C. 踏まえ**：踏まえる。基礎にする。 (Based on)",
+          "previousAnswer": null
+        },
+        {
+          "id": 20,
+          "number": 20,
           "imageTitle": "文法問題：助詞の使い分け",
-          "question": "優勝（　）逃したが、石川選手は今大会で自己ベストを更新する好成績を収めた。",
+          "question": "優勝（　）逃したが、石川選手は今大会で好成績を収めた。",
           "options": [
             "A、さえ",
             "B、こそ",
@@ -112,14 +320,14 @@
           ],
           "answer": "B",
           "userAnswer": null,
-          "notes": "<span style=\"color:var(--c-blue);background-color:var(--bg-blue)\">⚖️ 助詞の精密解析 ⚖️</span>\n\n### ✅ 正解：B. こそ\n*   **意味**：正是、才是 (Emphasis)\n*   **接続**：名詞 + こそ\n*   **説明**：强调该事物，排除其他。此处用于「虽然没能获得（最重要的）冠军，但别的方面很好」的对比强调。\n*   **例文**：来年こそ優勝したい！(明年一定要夺冠！)\n\n### ❌ 不正解のデバッグ\n*   **A. さえ** (连...都)：挙げた例が「極端」であることを示します。本文で使うと「连冠军都没拿（惨败）」というニュアンスになり、後の「好成績」と矛盾します。\n*   **C. ほど** (程度、大概)：数量、程度。例：死ぬほど疲れた。(累得要死。)\n*   **D. ばかり** (光是、净是/刚...)：限定。例：遊んでばかりいる。(净是在玩儿。)",
+          "notes": "<span style=\"color:var(--c-blue);background-color:var(--bg-blue)\">⚖️ 助詞の精密解析 ⚖️</span>\n\n### ✅ 正解：B. こそ\n*   **意味**：正是、才是 (Emphasis)\n*   **説明**：他を排除して強調します。逆説の「優勝はできなかったが」という対比を強めます。\n*   **例文**：明日こそ早起きする！",
           "previousAnswer": null
         },
         {
-          "id": 8,
-          "number": 8,
-          "imageTitle": "文法問題：理由と判断",
-          "question": "留学している息子も帰ってくる（　）、久しぶりに家族旅行にでも行こうかと思っています。",
+          "id": 21,
+          "number": 21,
+          "imageTitle": "文法問題：理由の列挙",
+          "question": "息子も帰ってくる（　）、久しぶりに家族旅行にでも行こうか。",
           "options": [
             "A、ことだし",
             "B、ことで",
@@ -128,13 +336,29 @@
           ],
           "answer": "A",
           "userAnswer": null,
-          "notes": "<span style=\"color:var(--c-red);background-color:var(--bg-red)\">📢 理由の列挙：〜ことだし 📢</span>\n\n### ✅ 正解：A. ことだし\n*   **意味**：因为...而且... (Since/As)\n*   **接続**：普通体 + ことだし\n*   **説明**：理由をいくつか挙げた上で、後の判断や勧誘に繋げます。柔らかい言い方です。\n*   **例文**：天気もいいことだし、散歩に行こう。(天气也好，去散个步吧。)\n\n### ❌ 不正解のデバッグ\n*   **B. ことで** (通过.../因为...)：手段や直接の原因。例：練習することで上達する。\n*   **C. ことだから** (既然是...)：相手の性格や確定した状況を根拠にする。例：責任感がある彼のことだから心配ない。(既然是他那么有责任感的人，不用担心。)\n*   **D. こととは言え** (虽说...)：逆説。例：子供のこととは言え、許せない。(虽说是孩子的事，但也不能原谅。)",
+          "notes": "<span style=\"color:var(--c-red);background-color:var(--bg-red)\">📢 理由の文法：〜ことだし 📢</span>\n\n### ✅ 正解：A. ことだし\n*   **意味**：因为...而且... (Since)\n*   **説明**：理由をいくつか挙げて判断を導く。 ✅\n*   **C. ことだから**：性格や必然性を根拠にする。(既然是...)",
           "previousAnswer": null
         },
         {
-          "id": 9,
-          "number": 9,
-          "imageTitle": "文法問題：文末表現のニュアンス",
+          "id": 22,
+          "number": 22,
+          "imageTitle": "文法問題：副詞の呼応",
+          "question": "表情が明るいところを見ると、（　）うまくいったようだ。",
+          "options": [
+            "A、仮に",
+            "B、まさか",
+            "C、必ずしも",
+            "D、どうやら"
+          ],
+          "answer": "D",
+          "userAnswer": null,
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">🧩 副詞の呼応：どうやら〜ようだ 🧩</span>\n\n### ✅ 正解：D. どうやら\n*   **意味**：看来 (Apparently)\n*   **説明**：根拠に基づく推量。 ✅",
+          "previousAnswer": null
+        },
+        {
+          "id": 23,
+          "number": 23,
+          "imageTitle": "文法問題：願望の自問",
           "question": "皿が安っぽい。もう少し良いものを使えない（　）と思う。",
           "options": [
             "A、ものか",
@@ -144,14 +368,14 @@
           ],
           "answer": "A",
           "userAnswer": null,
-          "notes": "<span style=\"color:var(--c-yellow);background-color:var(--bg-yellow)\">😤 不満と願望の「ものか」 😤</span>\n\n### ✅ 正解：A. ものか\n*   **意味**：难道不能...吗？ (Self-questioning for possibility/desire)\n*   **説明**：ここでは「使えないものだろうか」という**強い切望（せつぼう）**を表しています。\n*   **例文**：何とか解決できないものか。(难道就没有什么解决办法吗？)\n\n### ❌ 不正解のデバッグ\n*   **B. ものの** (虽然...但是...)：逆説。例：給料は高いものの、残業が多い。\n*   **C. ものだ** (应该是/感叹/回忆)：当然の理。例：昔はよくここで遊んだものだ。(以前常在这里玩儿。)\n*   **D. をの** (要是...就好了)：不満や後悔を伴う文末。例：早く謝ればよかったものを。(要是早点道歉就好了。)",
+          "notes": "<span style=\"color:var(--c-yellow);background-color:var(--bg-yellow)\">😤 切実な願望：〜ものか 😤</span>\n\n### ✅ 正解：A. ものか\n*   **意味**：难道不能...吗？ (Self-questioning)\n*   **説明**：不満からの強い願望。 ✅",
           "previousAnswer": null
         },
         {
-          "id": 10,
-          "number": 10,
-          "imageTitle": "文法問題：会話の確認表現",
-          "question": "先生「木村くん、このレポート読んだよ。うまくまとめられなかったって言ってたけど、けっこうよく（　）。」",
+          "id": 24,
+          "number": 24,
+          "imageTitle": "文法問題：会話表現",
+          "question": "「けっこうよく（　）。」",
           "options": [
             "A、書けてなきゃ",
             "B、書けてたらいいね",
@@ -160,14 +384,14 @@
           ],
           "answer": "C",
           "userAnswer": null,
-          "notes": "<span style=\"color:var(--c-blue);background-color:var(--bg-blue)\">💬 会話表現：「〜じゃない」の機能 💬</span>\n\n### ✅ 正解：C. 書けてるじゃない\n*   **意味**：不是写得挺好吗？ (Surprise/Confirmation/Praise)\n*   **説明**：自分の予想に反して良い結果だったことに対する軽い驚きや、相手への称賛、確認を表します。\n*   **例文**：料理上手じゃない！(这不是做得挺好嘛！)\n\n### ❌ 不正解のデバッグ\n*   **A. 書けてなきゃ** (如果不写好的话)：条件の省略。例：ちゃんと書けてなきゃいけない。\n*   **B. 書けてたらいいね** (要是写好了就好了)：願望。先生が学生のレポートを読み終わった後の発言としては不自然。\n*   **D. 書けてるかどうかだね** (关键在于是否写好了)：評価がまだ決まっていない状況。",
+          "notes": "<span style=\"color:var(--c-blue);background-color:var(--bg-blue)\">💬 会話表現：〜じゃない 💬</span>\n\n### ✅ 正解：C. 書けてるじゃない\n*   **意味**：不是写得挺好吗？ ✅",
           "previousAnswer": null
         },
         {
-          "id": 11,
-          "number": 11,
-          "imageTitle": "文法問題：理由の伝達",
-          "question": "駅前のうどん屋「やまむら」は、最近テレビで紹介された（　）、毎日店の前に長い行列ができている。",
+          "id": 25,
+          "number": 25,
+          "imageTitle": "文法問題：伝聞、伝聞の理由",
+          "question": "テレビで紹介された（　）、毎日行列ができている。",
           "options": [
             "A、とかで",
             "B、とかなら",
@@ -176,14 +400,14 @@
           ],
           "answer": "A",
           "userAnswer": null,
-          "notes": "<span style=\"color:var(--c-red);background-color:var(--bg-red)\">👂 伝聞に基づいた理由：〜とかで 👂</span>\n\n### ✅ 正解：A. とかで\n*   **意味**：说是因为... / 听说是由于... (Indicates a reason based on hearsay)\n*   **接続**：普通形 + とかで\n*   **説明**：他人から聞いた、あるいははっきりしない理由を挙げる時に使われます。少しカジュアル、または確信がないニュアンス。\n*   **例文**：風邪を引いたとかで、今日は休みだそうだ。(说是感冒了，今天好像休息。)\n\n### ❌ 不正解のデバッグ\n*   **D. というのも** (其原因是...)：文の最初や、結果を言った後の補足として使います。例：行列ができている。というのも、テレビで……。\n*   **B. とかなら** (如果是...之类的)：仮定。例：暇とかなら手伝って。\n*   **C. というのが** (所谓的...是)：主語を定義する形。例：大切なのは健康だというのが私の考えだ。",
+          "notes": "<span style=\"color:var(--c-red);background-color:var(--bg-red)\">👂 伝聞：〜とかで 👂</span>\n\n### ✅ 正解：A. とかで\n*   **意味**：说是... (Hearsay reason) ✅",
           "previousAnswer": null
         },
         {
-          "id": 12,
-          "number": 12,
-          "imageTitle": "文法問題：機能不足の強調",
-          "question": "あれでは何の解決（　）、わが社の信用が失われるだけだ。",
+          "id": 26,
+          "number": 26,
+          "imageTitle": "文法問題：全否定",
+          "question": "あれでは何の解決（　）、信用が失われるだけだ。",
           "options": [
             "A、になっておらず",
             "B、にもなっておらず",
@@ -192,13 +416,13 @@
           ],
           "answer": "B",
           "userAnswer": null,
-          "notes": "<span style=\"color:var(--c-yellow);background-color:var(--bg-yellow)\">⚠️ 全否定の強調：〜にもなっていない ⚠️</span>\n\n### ✅ 正解：B. にもなっておらず\n*   **意味**：甚至连...都不算 (Even fails to function as...)\n*   **接続**：名詞 + にも + なっていない/ならず\n*   **説明**：本来期待される「解決」という最低限の役割すら果たしていない、という強い不満の強調。\n*   **例文**：こんなの料理にもなっていない。(这种东西连料理都算不上。)\n\n### ❌ 不正解のデバッグ\n*   **A. になっておらず** (没有成为)：単なる否定。「にも」がないため、強調が不足しています。\n*   **C. になっているので（は）なく** (不是因为成为了)：理由の否定。文脈が通りません。",
+          "notes": "<span style=\"color:var(--c-yellow);background-color:var(--bg-yellow)\">⚠️ 否定強調：〜にもなっていない ⚠️</span>\n\n### ✅ 正解：B. にもなっておらず\n*   **意味**：甚至连...都不算 ✅",
           "previousAnswer": null
         },
         {
-          "id": 13,
-          "number": 13,
-          "imageTitle": "文法問題：反復のアスペクト",
+          "id": 27,
+          "number": 27,
+          "imageTitle": "文法問題：反復",
           "question": "「あの人、来るって言ってても、（　）だから……。」",
           "options": [
             "A、来ても来なくても",
@@ -208,14 +432,14 @@
           ],
           "answer": "C",
           "userAnswer": null,
-          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">🔄 動作の反復・不規則：〜たり〜たり 🔄</span>\n\n### ✅ 正解：C. 来たり来なかったり\n*   **意味**：一会儿来一会儿不来 (Sometimes comes, sometimes doesnt)\n*   **接続**：V1連用形 + たり + V2連用形 + たり\n*   **説明**：不規則な現象が繰り返されることを表します。\n*   **例文**：雨が降ったり止んだりしている。(雨下下停停。)\n\n### ❌ 不正解のデバッグ\n*   **A. 来ても来なくても** (无论来不来)：譲歩。後に「関係ない」などが続く。\n*   **B. 来るか来ないか** (是否来)：二択の疑問。「どうなのだろうか」などが続く。\n*   **D. 来るのも来ないのも** (来也是，不来也是)：並列。「どちらも自由だ」などが続く。",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">🔄 反復：〜たり〜たり 🔄</span>\n\n### ✅ 正解：C. 来たり来なかったり\n*   **意味**：一会儿来一不来 ✅",
           "previousAnswer": null
         },
         {
-          "id": 14,
-          "number": 14,
-          "imageTitle": "文法問題：事態の寸前状態",
-          "question": "サークルの強引な勧誘に困った。危うく入会（　）。",
+          "id": 28,
+          "number": 28,
+          "imageTitle": "文法問題：寸前回避",
+          "question": "話を進められて、危うく入会（　）。",
           "options": [
             "A、させられるところだった",
             "B、されようがなかった",
@@ -224,13 +448,13 @@
           ],
           "answer": "A",
           "userAnswer": null,
-          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⚠️ 条件表現：直前回避「〜ところだった」 ⚠️</span>\n\n### ✅ 正解：A. させられるところだった\n*   **意味**：差点就要被(入会)了 (Almost made to join...)\n*   **説明**：実際には免れたが、一歩手前だった危ない状況を表します。「被使役（させられる）」の形。\n*   **例文**：もう少しで車に撥ねられるところだった。(差一点就被车撞了。)\n\n### ❌ 不正解のデバッグ\n*   **B. されようがなかった** (没办法被...)：〜しようがない（不可能）。\n*   **D. しなかったことにした** (当作没做)：意図的な情報の書き換え。文脈に合いません。",
-          "previousAnswer": null
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">⚠️ 寸前回避：〜ところだった ⚠️</span>\n\n### ✅ 正解：A. させられるところだった\n*   **意味**：差点就要被(入会)了 ✅",
+          "previousAnswer": "A"
         },
         {
-          "id": 15,
-          "number": 15,
-          "imageTitle": "文法問題：部分否定の弁明",
+          "id": 29,
+          "number": 29,
+          "imageTitle": "文法問題：弁明、緩和",
           "question": "「見学したからって、（　）し、どう？」",
           "options": [
             "A、入りたがるだけじゃない",
@@ -240,14 +464,14 @@
           ],
           "answer": "C",
           "userAnswer": null,
-          "notes": "<span style=\"color:var(--c-blue);background-color:var(--bg-blue)\">🛡️ 緩和の表現：〜ってわけじゃない 🛡️</span>\n\n### ✅ 正解：C. 入らなきゃいけないってわけじゃない\n*   **意味**：并不是非得加入不可 (It doesnt mean you have to join)\n*   **説明**：強制ではないことを伝えて相手の心理的ハードルを下げる定番の表現です。\n*   **例文**：嫌いなわけじゃないけど、あまり食べない。(并不是讨厌，只是不太吃。)\n\n### ❌ 不正解のデバッグ\n*   **A. 入りたがるだけじゃない** (不只是想加入)：主旨が不明瞭。\n*   **B. 入らせないわけにはいかない** (不能不让他加入)：義務の二重否定。文脈に合いません。",
+          "notes": "<span style=\"color:var(--c-blue);background-color:var(--bg-blue)\">🛡️ 弁明：〜わけじゃない 🛡️</span>\n\n### ✅ 正解：C. 入らなきゃいけないってわけじゃない\n*   **意味**：并不是非得加入不可 ✅",
           "previousAnswer": null
         },
         {
-          "id": 16,
-          "number": 16,
-          "imageTitle": "問題⑥：並び替え問題（★問題）",
-          "question": "X病院は、患者を<u>　　</u> <u>　　</u> <u>★</u> <u>　　</u> 近々予約制を導入するらしい。",
+          "id": 30,
+          "number": 30,
+          "imageTitle": "問題⑥：並び順（★）",
+          "question": "X医院は、患者を<u>　　</u> <u>　　</u> <u>★</u> <u>　　</u> 近々予約制を導入するらしい。",
           "options": [
             "A、待たせる",
             "B、診察できる",
@@ -256,14 +480,14 @@
           ],
           "answer": "B",
           "userAnswer": null,
-          "notes": "<span style=\"color:var(--c-blue);background-color:var(--bg-blue)\">🧩 文のアーキテクチャ解析 🧩</span>\n\n### 🛠️ 正解の構成：A-D-B-C\n「患者を **[待たせる(A)] [ことなく(D)] [診察できる(B)] [ように(C)]**」\n\n### 🔧 結合（Join）のロジック\n1.  **V＋ことなく** (不做什么地)：A + D (无需等待)\n2.  **V可能形＋ように** (为了能...)：B + C (为了能诊察)\n3.  ★は3番目の **B** です。\n\n--- \n<span style=\"color:var(--t-accent)\">💡 先生のコツ：</span>N1では「Without/Instead of (D)」と「Purpose (C)」という2つのノードを繋ぐ構造が定番です！",
+          "notes": "<span style=\"color:var(--c-blue);background-color:var(--bg-blue)\">🧩 並び替え：ADBC 🧩</span>\n\n待たせる(A)ことなく(D)診察できる(B)ように(C)。★はB。",
           "previousAnswer": null
         },
         {
-          "id": 17,
-          "number": 17,
-          "imageTitle": "問題⑥：並べ替え問題（★問題）",
-          "question": "一人暮らしだとインスタント食品ばかり食べてしまって<u>　　</u> <u>　　</u> <u>★</u> <u>　　</u> ありがたい。",
+          "id": 31,
+          "number": 31,
+          "imageTitle": "問題⑥：並び順（★）",
+          "question": "インスタント食品ばかりで<u>　　</u> <u>　　</u> <u>★</u> <u>　　</u> ありがたい。",
           "options": [
             "A、だけに",
             "B、になり",
@@ -272,13 +496,13 @@
           ],
           "answer": "C",
           "userAnswer": null,
-          "notes": "<span style=\"color:var(--c-red);background-color:var(--bg-red)\">🧩 傾向の強調：〜がちなだけに 🧩</span>\n\n### 🛠️ 正解の構成：D-B-C-A\n「**[野菜不足(D)] [に(B)] [なりがちな(C)] [だけに(A)]** ありがたい」\n\n### 🔧 言語知識のパース\n1.  **〜になりがち** (倾向于...)：D+B+C (容易蔬菜不足)\n2.  **〜だけに** (正因为...所以格外...)：C+A (正因为平时容易不足，所以收到的蔬菜汁格外可贵)。\n3.  ★は3番目の **C** です。\n\n---\n<span style=\"color:var(--t-accent)\">💡 先生のコツ：</span>「なりがち」「だけに」という2つの独立した文法パーツの依存関係(Dependency)を解決しましょう！",
+          "notes": "<span style=\"color:var(--c-red);background-color:var(--bg-red)\">🧩 並び替え：DBCA 🧩</span>\n\n野菜不足(D)になり(B)がちな(C)だけに(A)。★はC。",
           "previousAnswer": null
         },
         {
-          "id": 18,
-          "number": 18,
-          "imageTitle": "問題⑥：並べ替え問題（★問題）",
+          "id": 32,
+          "number": 32,
+          "imageTitle": "問題⑥：並び順（★）",
           "question": "洗濯物を<u>　　</u> <u>　　</u> <u>★</u> <u>　　</u> 悪臭の原因にもなります。",
           "options": [
             "A、洗剤をたくさん入れればいいかといえば",
@@ -288,14 +512,14 @@
           ],
           "answer": "D",
           "userAnswer": null,
-          "notes": "<span style=\"color:var(--c-yellow);background-color:var(--bg-yellow)\">🧩 定説の否定：〜とえばそうではなく 🧩</span>\n\n### 🛠️ 正解の構成：C-A-D-B\n「**[きれいに洗うには(C)] [洗剤をたくさん入れればいいかといえば(A)] [そうではなく(D)] [逆にすすぎ切れなかったりして(B)]**」\n\n### 🔧 構造化プロセス\n1.  前提の提示：C (为了洗干净)\n2.  一般的疑問の提示：A (是否多放洗剂就好呢？)\n3.  全否定の挿入：D (并不是那样)\n4.  意図しない副作用：B (反而因为冲洗不干净...) ✅ ★は **D** です。\n\n---\n<span style=\"color:var(--t-accent)\">💡 先生のコツ：</span>「AといえばBではなく」という全否定型のアルゴリズムはN1読解でも頻出です。",
+          "notes": "<span style=\"color:var(--c-yellow);background-color:var(--bg-yellow)\">🧩 並び替え：CADB 🧩</span>\n\nきれいに洗うには(C)洗剤をたくさん入れればいいかといえば(A)そうではなく(D)逆に(B)。★はD。",
           "previousAnswer": null
         },
         {
-          "id": 19,
-          "number": 19,
-          "imageTitle": "問題⑥：並べ替え問題（★問題）",
-          "question": "洋館があるらしい。前々から<u>　　</u> <u>　　</u> <u>★</u> <u>　　</u> 帰ることはできない。",
+          "id": 33,
+          "number": 33,
+          "imageTitle": "問題⑥：並び順（★）",
+          "question": "前々から<u>　　</u> <u>　　</u> <u>★</u> <u>　　</u> 帰ることはできない。",
           "options": [
             "A、私としては",
             "B、近代建築に興味がある",
@@ -304,13 +528,13 @@
           ],
           "answer": "D",
           "userAnswer": null,
-          "notes": "<span style=\"color:var(--c-red);background-color:var(--bg-red)\">🧩 強い義務感：〜からには 🧩</span>\n\n### 🛠️ 正解の構成：B-A-D-C\n「**[近代建築に興味がある(B)] [私としては(A)] [それを知ったからには(D)] [その洋館を見ずに(C)]** 帰ることはできない」\n\n### 🔧 ロジカル・ビルド\n1.  主体の定義：B+A (作为对近代建筑感兴趣的我来说)\n2.  覚悟の条件：D (既然已经知道了这件事)\n3.  不可能な行動：C (不能不看那座洋馆就...)\n4.  ★は3番目の **D** です。\n\n--- \n<span style=\"color:var(--t-accent)\">💡 先生のコツ：</span>「〜からには」という「既然...就某种意志/义务」を繋ぐ中核ノードを固定しましょう！",
+          "notes": "<span style=\"color:var(--c-red);background-color:var(--bg-red)\">🧩 並び替え：BADC 🧩</span>\n\n興味がある(B)私としては(A)それを知ったからには(D)見ずに(C)。★はD。",
           "previousAnswer": null
         },
         {
-          "id": 20,
-          "number": 20,
-          "imageTitle": "問題⑥：並べ替え問題（★問題）",
+          "id": 34,
+          "number": 34,
+          "imageTitle": "問題⑥：並び順（★）",
           "question": "私は、<u>　　</u> <u>　　</u> <u>★</u> <u>　　</u> と思い、校内に畑を作って提案した。",
           "options": [
             "A、農業を身近なものとして",
@@ -320,7 +544,7 @@
           ],
           "answer": "A",
           "userAnswer": null,
-          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">🧩 複雑な因果の構築 🧩</span>\n\n### 🛠️ 正解の構成：D-B-A-C\n「**[育てた野菜を収穫して(D)] [食べるということが(B)] [農業を身近なものとして(A)] [考えるきっかけになれば(C)]**」\n\n### 🔍 依存関係のデバッグ\n- D + B：一連の動作 (收割并食用)\n- A + C：〜を〜として + きっかけになる (把农业作为熟悉的事物...成为考虑的契机)\n- ★は3番目の **A** です。",
+          "notes": "<span style=\"color:var(--c-green);background-color:var(--bg-green)\">🧩 並び替え：DBAC 🧩</span>\n\n収穫して(D)食べるということが(B)農業を身近なものとして(A)考えるきっかけになれば(C)。★はA。",
           "previousAnswer": null
         }
       ]
