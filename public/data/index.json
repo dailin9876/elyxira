@@ -6,5 +6,9 @@
   {
     "name": "[医考]执业综合",
     "path": "[医考]执业综合.json"
+  },
+  {
+    "name": "test level 1",
+    "path": "test_level_1.json"
   }
 ]
