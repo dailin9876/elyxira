@@ -257,7 +257,7 @@ const showcaseImages = ref([
     alt: 'Elyxira 医学题库截图'
   },
   {
-    src: '/images/screenshot2.png', // 更新路径
+    src: './images/screenshot2.png', // 更新路径
     alt: 'Elyxira AI分析截图'
   }
 ])
