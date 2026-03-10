@@ -762,7 +762,7 @@ async function loadOnlineQuizList() {
         // 规范化路径 - 确保能正确访问到资源
         if (!downloadUrl) {
           if (!itemPath.startsWith('/') && !itemPath.startsWith('http')) {
-            itemPath = `/data/${itemPath}`;
+            itemPath = `./data/${itemPath}`;
           }
           downloadUrl = itemPath;
         }
