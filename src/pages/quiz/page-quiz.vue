@@ -509,23 +509,10 @@ function submitAnswer() {
       return;
     }
   }
-  // if (quizSettings.value.showNotesAfterAnswer) {
-  //   forceShowNotes.value = true;
-  //   renderNotesForCurrentQuestion();
-  // }
-  // 1. 强制显示笔记区域
-  forceShowNotes.value = true;
-  
-  // 2. 在 DOM 更新后渲染并处理自动生成
-  nextTick(() => {
-    renderNotesForCurrentQuestion();
-    
-    // 3. 如果开启了自动生成且当前没有笔记，则在提交时立即触发生成
-    if (apiConfig.value.enabled && apiConfig.value.autoGenerate && 
-        (!question.notes || question.notes.trim() === '')) {
-      requestNoteGeneration(currentIndex.value, false);
-    }
-  });
+  if (quizSettings.value.showNotesAfterAnswer) {
+     forceShowNotes.value = true;
+     renderNotesForCurrentQuestion();
+   }
   if (quizSettings.value.autoNext && canGoNext.value) {
     setTimeout(nextQuestion, 1000);
   }
