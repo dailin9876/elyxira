@@ -731,7 +731,7 @@ async function loadLocalQuizList() {
 // 加载在线题库列表 - 优化版
 async function loadOnlineQuizList() {
   try {
-    const indexUrl = '/data/index.json';
+    const indexUrl = './data/index.json';
 
     // 修改fetch请求，添加正确的headers来确保正确的MIME类型
     const response = await fetch(indexUrl, {
